@@ -10,14 +10,14 @@ This project uses a Hospital case study with patient and doctor data. Queries re
 
 # Example:
 
-“Patients”: [{“ID”:101, “Name”: “Daisy”, “Age”: 21, “Problem”: “Fever”}]
-“Doctors”: [{“ID”: 201, “Name”: “Danna”, “Specialization”: “Physician”}]
+- “Patients”: [{“ID”:101, “Name”: “Daisy”, “Age”: 21, “Problem”: “Fever”}]
+- “Doctors”: [{“ID”: 201, “Name”: “Danna”, “Specialization”: “Physician”}]
 
-# File Structure:
-|
-|- app.py
-|- requirements.txt
-|- README.Md
+# Project File Structure:
+
+- [app.py](app.py): The main Python script.
+- [requirements.txt](requirements.txt): File listing project dependencies.
+- [README.md](README.md): The project README file.
 
 # Installation:
 
